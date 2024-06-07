@@ -1,4 +1,4 @@
-## APIs.io US Federal Government
+## APIs.io U.S. Federal Government
 This is an APIs.io search node dedicated to the United States Federal Government. This where we will be publishing all of the government APIs that we profile as part of our work.
 
 All of this is still under construction, but will be stabilizing very soon. The only place you will find unique about this repository is in the _apis folder where we have all of the APIs.json for the APIs being profiled, the rest is just the website wrapper for the search engine.
