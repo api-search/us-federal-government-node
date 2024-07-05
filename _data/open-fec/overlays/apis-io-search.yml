@@ -5,7 +5,7 @@ description: >-
   available on the current site. Information is tied to the underlying forms by
   file ID and image ID. Data are updated nightly. ~
   https://api.open.fec.gov/developers/
-url: https://example.com/apis/openfec-api-documentation.yml
+url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_data/open-fec/overlays/apis-io-search.yml
 created: 2024/04/14
 modified: 2024/04/14
 specificationVersion: '0.16'

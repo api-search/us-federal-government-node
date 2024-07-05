@@ -5,7 +5,7 @@ description: >-
   most closely watched statistics, including U.S. gross domestic product, better
   known as GDP. We do state and local numbers, too, plus foreign trade and
   investment stats and industry data.
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/template.yml
+url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_data/bureau-of-economic-analysis/overlays/apis-io-search.yml
 created: 2024/04/14
 modified: 2024/04/14
 specificationVersion: '0.16'

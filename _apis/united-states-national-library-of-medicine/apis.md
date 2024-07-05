@@ -2,7 +2,7 @@
 name: United States National Library of Medicine
 description: This is the description.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/template.yml
+url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/united-states-national-library-of-medicine/apis.md
 created: 2024/01/01
 modified: 2024/01/01
 specificationVersion: '0.16'

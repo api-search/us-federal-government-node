@@ -4,7 +4,7 @@ description: >-
   Discovery Tool. Sign up for our newsletter to get the latest updates and
   newest dataset addition. We also invite you to make requests for features /
   data via our forum.
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/template.yml
+url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_data/united-states-census-bureau/overlays/apis-io-search.yml
 created: 2024/04/14
 modified: 2024/04/14
 specificationVersion: '0.16'

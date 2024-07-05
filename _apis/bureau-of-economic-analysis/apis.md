@@ -7,7 +7,7 @@ description: >-
   known as GDP. We do state and local numbers, too, plus foreign trade and
   investment stats and industry data.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/template.yml
+url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/bureau-of-economic-analysis/apis.md
 created: 2024/01/01
 modified: 2024/01/01
 specificationVersion: '0.16'

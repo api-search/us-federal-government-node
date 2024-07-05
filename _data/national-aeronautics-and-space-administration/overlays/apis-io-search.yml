@@ -2,7 +2,7 @@ name: The National Aeronautics and Space Administration (NASA)
 description: >-
   NASA explores the unknown in air and space, innovates for the benefit of
   humanity, and inspires the world through discovery.
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/template.yml
+url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_data/national-aeronautics-and-space-administration/overlays/apis-io-search.yml
 created: 2024/04/14
 modified: 2024/04/14
 specificationVersion: '0.16'

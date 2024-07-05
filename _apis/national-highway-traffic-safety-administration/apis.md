@@ -9,7 +9,7 @@ description: >-
   is captured in this catalog and used to decode a VIN and extract vehicle
   information. ~ https://vpic.nhtsa.dot.gov/api/
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/vehicle-api.png
-url: https://example.com/apis/vehicle-api.yml
+url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/national-highway-traffic-safety-administration/apis.md
 created: 2024/3/30
 modified: 2024/3/30
 specificationVersion: '0.16'

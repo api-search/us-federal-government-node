@@ -8,7 +8,7 @@ description: >-
   https://api.open.fec.gov/developers/
 image: >-
   https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/openfec-api-documentation.png
-url: https://example.com/apis/openfec-api-documentation.yml
+url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/open-fec/apis.md
 created: 2024/3/30
 modified: 2024/3/30
 specificationVersion: '0.16'

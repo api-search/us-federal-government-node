@@ -6,8 +6,7 @@ description: >-
   https://safetydata.fra.dot.gov/MasterWebService/publicapi/
 image: >-
   https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/federal-railroad-administration-developer-support-site.png
-url: >-
-  https://example.com/apis/federal-railroad-administration-developer-support-site.yml
+url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/federal-railroad-administration/apis.md
 created: 2024/3/29
 modified: 2024/3/29
 specificationVersion: '0.16'
