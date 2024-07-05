@@ -9,7 +9,8 @@ url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_da
 created: 2024/04/14
 modified: 2024/04/14
 specificationVersion: '0.16'
-tags: []
+tags:
+  - Federal Government
 apis:
   - name: Bureau of Economic Analysis (BEA) API
     description: >-

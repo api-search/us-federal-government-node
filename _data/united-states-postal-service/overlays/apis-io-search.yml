@@ -8,7 +8,8 @@ url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_da
 created: 2024/01/01
 modified: 2024/01/01
 specificationVersion: "0.16"
-tags: []
+tags:
+  - Federal Government
 apis:
   - name: United States Postal Service (USPS) API
     description: The USPS Web Tools® API library gives ecommerce website shopping
