@@ -1,0 +1,19 @@
+name: Library of Congress
+description: This is the description.
+url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_data/library-of-congress/overlays/apis-io-search.yml
+created: 2024/04/14
+modified: 2024/04/14
+specificationVersion: '0.16'
+tags:
+  - Federal Government
+apis:
+  - name: Library of Congress API
+    description: This is the description.
+    tags: []
+    overlays: []
+    aid: library-of-congress:library-of-congress-api
+maintainers:
+  - FN: API Evangelist
+    url: http://apievangelist.com
+    email: info@apievangelist.com
+aid: library-of-congress
