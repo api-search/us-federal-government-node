@@ -1,4 +1,3 @@
----
 name: United States Census Bureau (Census)
 description: >-
   The Census Bureau has begun rolling out our datasets via APIs.  Check out our
@@ -6,7 +5,8 @@ description: >-
   newest dataset addition. We also invite you to make requests for features /
   data via our forum.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/united-states-census-bureau/apis.md
+url: >-
+  https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/united-states-census-bureau/apis.md
 created: 2024/01/01
 modified: 2024/01/01
 specificationVersion: '0.16'
@@ -40,4 +40,3 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: united-states-census-bureau-census
----

@@ -1,4 +1,3 @@
----
 name: Bureau of Economic Analysis (BEA)
 description: >-
   The U.S. Bureau of Economic Analysis is your source of accurate and objective
@@ -7,7 +6,8 @@ description: >-
   known as GDP. We do state and local numbers, too, plus foreign trade and
   investment stats and industry data.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/bureau-of-economic-analysis/apis.md
+url: >-
+  https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/bureau-of-economic-analysis/apis.md
 created: 2024/01/01
 modified: 2024/01/01
 specificationVersion: '0.16'
@@ -43,4 +43,3 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: bureau-of-economic-analysis-bea
----

@@ -1,4 +1,3 @@
----
 name: OpenFEC
 description: >-
   The Federal Election Commission (FEC) API is a RESTful web service supporting
@@ -8,7 +7,8 @@ description: >-
   https://api.open.fec.gov/developers/
 image: >-
   https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/openfec-api-documentation.png
-url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/open-fec/apis.md
+url: >-
+  https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/open-fec/apis.md
 created: 2024/3/30
 modified: 2024/3/30
 specificationVersion: '0.16'
@@ -25,10 +25,11 @@ apis:
     image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     humanURL: https://api.open.fec.gov/developers/
     overlays: []
+    aid: openfec:openfec-api-documentation
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
 overlays:
   - type: APIs.io Search
     url: overlays/apis-io-search.yml
----
+aid: openfec

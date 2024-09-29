@@ -1,4 +1,3 @@
----
 name: United States Postal Service (USPS)
 description: >-
   The USPS Web Tools® API library gives ecommerce website shopping carts and
@@ -6,7 +5,8 @@ description: >-
   shipping rates, track packages, and schedule a package pickup all through USPS
   Web Tools. Get started now or read on to learn more.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/united-states-postal-service/apis.md
+url: >-
+  https://raw.githubusercontent.com/api-search/us-federal-government/main/_apis/united-states-postal-service/apis.md
 created: 2024/01/01
 modified: 2024/01/01
 specificationVersion: '0.16'
@@ -40,4 +40,3 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: united-states-postal-service-usps
----
