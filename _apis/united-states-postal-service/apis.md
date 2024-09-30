@@ -1,3 +1,4 @@
+---
 name: United States Postal Service (USPS)
 description: >-
   The USPS Web Tools® API library gives ecommerce website shopping carts and
@@ -40,3 +41,4 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: united-states-postal-service-usps
+---

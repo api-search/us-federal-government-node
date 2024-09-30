@@ -1,3 +1,4 @@
+---
 name: OpenFEC
 description: >-
   The Federal Election Commission (FEC) API is a RESTful web service supporting
@@ -33,3 +34,4 @@ overlays:
   - type: APIs.io Search
     url: overlays/apis-io-search.yml
 aid: openfec
+---

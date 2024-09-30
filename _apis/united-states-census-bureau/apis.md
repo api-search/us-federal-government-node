@@ -1,3 +1,4 @@
+---
 name: United States Census Bureau (Census)
 description: >-
   The Census Bureau has begun rolling out our datasets via APIs.  Check out our
@@ -40,3 +41,4 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: united-states-census-bureau-census
+---

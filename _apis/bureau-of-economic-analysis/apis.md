@@ -1,3 +1,4 @@
+---
 name: Bureau of Economic Analysis (BEA)
 description: >-
   The U.S. Bureau of Economic Analysis is your source of accurate and objective
@@ -43,3 +44,4 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: bureau-of-economic-analysis-bea
+---
